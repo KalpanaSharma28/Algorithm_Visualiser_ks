@@ -12,7 +12,8 @@ The main window is created using PySide6's QMainWindow.
 The GUI layout is designed using Qt Designer, and the design is loaded into the main window.
 The main window contains widgets such as buttons, a combo box for selecting sorting algorithms, a text edit widget for displaying algorithm information, and a custom ChartWidget for displaying the bar chart.
 
-![image](https://github.com/KalpanaSharma28/Algorithm_Visualiser_ks/assets/103998795/5f35091c-e37a-4620-ae8c-d337dc431260)
+![image](https://github.com/KalpanaSharma28/Algorithm_Visualiser_ks/assets/103998795/821ac568-4d36-4ca5-b7aa-b3da02df1a0f)
+
 
 #### Array and Sorting:
 Ui_MainWindow integrate the GUI.
